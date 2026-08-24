@@ -1,10 +1,6 @@
 # Smart-Attendance-System
 A desktop-based Smart Attendance System built with Python, Tkinter, OpenCV, and MySQL. It uses Haar Cascades for real-time face detection and the LBPH algorithm for face recognition to automatically mark student attendance and manage records.
 
-👤 Smart Attendance System using Face Recognition
-
-A modern, desktop-based attendance management system built in Python using **Tkinter** for the graphical user interface, **OpenCV** for facial detection & recognition, and **MySQL** for robust database management. 
-
 This system automates the process of attendance marking by using **Haar Cascade Classifiers** for real-time face detection and the **Local Binary Patterns Histograms (LBPH)** algorithm for high-accuracy face recognition.
 
 ---
